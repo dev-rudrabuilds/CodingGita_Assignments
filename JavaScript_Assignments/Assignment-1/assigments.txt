@@ -1,0 +1,130 @@
+Section A: Short Answer Questions
+Q1. What is JavaScript?
+Ans :- JavaScript is a high-level, dynamically typed programming language used to add interactivity and behaviour to web pages and applications.
+
+Q2. Who created JavaScript and in which year?
+Ans :- JavaScript was created by Brendan Eich in 1995 while he was working at Netscape.
+
+Q3. What was the original name of JavaScript?
+Ans :- The original name of JavaScript was Mocha; it was later renamed LiveScript and then JavaScript.
+
+Q4. Is JavaScript the same as Java? Give one major difference.
+Ans :- No, JavaScript and Java are different programming languages; JavaScript is mainly used for web interactivity, while Java is a general-purpose, class-based language.
+
+Q5. What does it mean when we say JavaScript is a high-level programming language?
+Ans :- A high-level language uses human-readable syntax and hides complex machine-level details, making programming easier.
+
+Q6. Is JavaScript a compiled language or an interpreted language? Explain briefly.
+Ans :- JavaScript is traditionally called an interpreted language, but modern engines use JIT (Just-In-Time) compilation to execute code efficiently.
+
+Q7. Name the JavaScript engines used by the following browsers.
+Ans :- Chrome – V8; Firefox – SpiderMonkey; Safari – JavaScriptCore (JSC).
+
+Q8. What is Dynamic Typing in JavaScript?
+Ans :- Dynamic typing means a variable can hold values of different data types during program execution without declaring its type explicitly.
+
+Q9. What is the main difference between a static website and a dynamic website?
+Ans :- A static website shows mostly fixed content, while a dynamic website can change content or behaviour based on user interaction, data, or conditions.
+
+Q10. Name the three pillars of Front-end Web Development and write one line about each.
+Ans :- HTML – Structure; CSS – Styling and presentation; JavaScript – Behaviour and interactivity.
+
+Q11. What is the difference between Frontend and Backend?
+Ans :- Frontend is the user-facing part of an application, while Backend handles server-side logic, databases, authentication, and data processing.
+
+Q12. What is Node.js?
+Ans :- Node.js is a JavaScript runtime that allows JavaScript to run outside the browser, especially for server-side development.
+
+Q13. Explain ECMAScript. What is its relation with JavaScript?
+ :- ECMAScript is the standard/specification that defines the core features of JavaScript, while JavaScript is an implementation of the ECMAScript standard.
+***********************************************************************************************************************************************************************************
+
+Section B: True or False
+1.
+False – JavaScript is a dynamically typed language.
+
+2.
+False – JavaScript can run outside the browser, for example using Node.js.
+
+3.
+False – JavaScript is mainly responsible for the behaviour and interactivity of a webpage.
+
+4.
+True
+
+5.
+False – JavaScript is case-sensitive.
+
+6.
+False – let name and let Name are different variables because JavaScript is case-sensitive.
+
+7.
+False – ECMAScript is a standard/specification, not a programming language itself.
+
+8.
+False – React, Angular, and Vue.js are mainly used for Frontend development.
+*************************************************************************************************************************************************************************************
+
+Section C: Fill in the Blanks
+1.
+i) Brendan Eich ii) 1995.
+
+2.
+HTML, CSS, and JavaScript.
+
+3.
+i) V8 ii) SpiderMonkey.
+
+4.
+i) Frontend/User ii) API iii) Backend.
+
+5.
+.js
+*************************************************************************************************************************************************************************************
+
+Section D: Conceptual Questions
+Q14.
+Ans :- A static website displays fixed content that changes only when its files are manually updated, e.g., a simple portfolio website.
+       A dynamic website generates or changes content based on users, data, or interactions, e.g., Instagram or Amazon.
+
+Q15.
+Ans :- Event-driven: JavaScript can respond to events such as clicks, typing, and mouse movements.
+DOM Manipulation: JavaScript can dynamically change HTML content, elements, and CSS styles.
+
+Q16.
+Ans :- Backend/Server: Node.js – Express.js
+       Mobile Apps: React Native
+       Desktop Apps: Electron
+       AI/ML: TensorFlow.js
+
+Q17.
+Ans :- JavaScript inside <script> is written directly in the HTML file, while external JavaScript is stored in a separate .js file and linked using <script src="">.
+       External files provide code reusability and better organization/maintainability.
+
+Q18.
+Ans :- The Frontend is like the restaurant's visible area where the customer interacts, while the Backend is like the kitchen where the actual processing happens.
+       The API acts like the waiter, carrying requests and responses between the customer and kitchen.
+
+Q19.
+Ans :- It is one of the main Frontend web technologies.
+       It is used to create interactive and dynamic websites.
+       It can also be used for Backend, mobile, and desktop development.
+       It has a large community, ecosystem, and job opportunities.
+*************************************************************************************************************************************************************************************
+
+Section E: Code-Based Questions
+Q20.
+Ans :- Output:
+       number
+       string
+       boolean
+       Explanation:
+
+JavaScript is dynamically typed, so the same variable can store values of different data types.
+The typeof operator returns the current data type of the value stored in value.
+
+
+Q24.
+Ans :- JavaScript became popular because it is easy to use, supported by all major browsers, and has a large developer community and ecosystem.
+Node.js allowed JavaScript to run outside browsers, making it useful for Backend/server-side development and other applications.
+Continuous ECMAScript updates introduced new features, improvements, and modern programming capabilities, helping JavaScript grow across web, mobile, desktop, and other areas.
