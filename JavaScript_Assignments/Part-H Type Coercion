@@ -1,0 +1,311 @@
+// Part-A:
+
+
+
+// Question-1
+
+
+// let age ="25";
+// let realAge = Number(age) + 10;
+
+
+// console.log(typeof realAge);
+// console.log(realAge);
+
+
+// Question-2
+
+
+// let num =100;
+// let realNum = String(num)
+// let result = realNum + "rupees"
+
+// console.log(result)
+
+
+// Question-3
+
+// let value = 0
+// let realValue = Boolean(value)
+
+// console.log(realValue)
+
+
+// Question-4
+
+// let value = "Hello"
+// let realValue = Boolean(value)
+
+// console.log(realValue)
+
+
+// Question-5
+
+// let result = +"50" * 2;
+// console.log(result); // 100
+
+
+// Question-6
+
+// Output:
+// 5
+// 105
+// 20
+// 5
+
+// Question-7
+
+// Output:
+// 3
+// 52
+// 10
+// 2.5
+
+
+// Question-8
+
+// Output:
+// 123
+// NaN
+// 1
+// 0
+// 0
+// NaN
+
+
+// Question-9
+
+// Output:
+// false
+// false
+// true
+// true
+// true
+// false
+
+// console.log(Boolean(0));
+// console.log(Boolean(""));
+// console.log(Boolean("0"));
+// console.log(Boolean([]));
+// console.log(Boolean({}));
+// console.log(Boolean(null));
+
+// Question-10
+
+// Output:
+// 100
+// true
+// null
+// undefined
+// 100
+
+// console.log(String(100));
+// console.log(String(true));
+// console.log(String(null));
+// console.log(String(undefined));
+// console.log(100 + "");
+
+
+// Part-C:
+
+
+// Question-11
+
+// Output:
+// 532
+// 82
+// 4
+// 22
+
+// console.log("5" + 3 + 2);
+// console.log(5 + 3 + "2");
+// console.log("5" - 3 + 2);
+// console.log(5 - "3" + "2");
+
+
+// Question-12
+
+// Output:
+// 2
+// 1
+// truefalse
+// falsetrue
+
+
+// console.log(true + true);
+// console.log(true + false);
+// console.log(true + "false");
+// console.log(false + "true");
+
+
+// Question-13
+
+// Output:
+// 5
+// NaN
+// null5
+// undefined5
+
+
+// console.log(null + 5);
+// console.log(undefined + 5);
+// console.log(null + "5");
+// console.log(undefined + "5");
+
+
+// Question-14
+
+// Output:
+// [object Object]
+// [object Object]
+// [object Object][object Object]
+
+// console.log([] + []);
+// console.log([] + {});
+// console.log({} + []);
+// console.log({} + {});
+
+
+// Question-15
+
+
+// Output:
+// 105 String
+// 5 Number
+// 15 Number
+
+// let a = "10";
+// let b = 5;
+// let c = a + b;
+// let d = a - b;
+// let e = +a + b;
+// console.log(c, typeof c);
+// console.log(d, typeof d);
+// console.log(e, typeof e);
+
+
+// Question-16
+
+// Output:
+// true
+// false
+// false
+// true
+// false
+// false
+
+
+// console.log(!!"Hello");
+// console.log(!!"");
+// console.log(!!0);
+// console.log(!!1);
+// console.log(!!null);
+// console.log(!!undefined);
+
+
+// Question-17
+
+
+// Output:
+// 0
+// 0
+// 0
+// 25
+// NaN
+
+
+// console.log(Number(""));
+// console.log(Number(" "));
+// console.log(Number("0"));
+// console.log(Number("  25  "));
+// console.log(Number("25px"));
+
+
+
+// Question-18
+
+// Output:
+// 52
+// 7
+// 3
+// 10
+// 2.5
+
+// let val1 = "5";
+// let val2 = 2;
+// console.log(val1 + val2);
+// console.log(+val1 + val2);
+// console.log(val1 - val2);
+// console.log(val1 * val2);
+// console.log(val1 / val2);
+
+
+// Bonus Practice Question
+
+
+// Question-19
+
+// Output:
+// Number
+// 6
+// Number
+// 7
+
+
+// let count = 5;
+// console.log(typeof count++);
+// console.log(count);
+// console.log(typeof ++count);
+// console.log(count);
+
+
+// Question-20
+
+// Output:
+// 11 11 Number Number
+
+
+// let x = "10";
+// let y = ++x;
+// console.log(x, y, typeof x, typeof y);
+
+// Question-21
+
+// Output:
+// 6 5 Number Number
+
+// let a = "5";
+// let b = a++;
+// console.log(a, b, typeof a, typeof b);
+
+
+// Question-22
+
+// Output:
+// String
+// Number
+// Number
+// Number
+
+// console.log(typeof (1 + "2"));
+// console.log(typeof (1 - "2"));
+// console.log(typeof (1 * "2"));
+// console.log(typeof (1 / "2"));
+
+
+// Question-23
+
+// Output:
+// Object
+// 1
+// -1
+// 0
+// false
+
+
+// let val = null;
+// console.log(typeof val);
+// console.log(val + 1);
+// console.log(val - 1);
+// console.log(val * 1);
+// console.log(Boolean(val));
