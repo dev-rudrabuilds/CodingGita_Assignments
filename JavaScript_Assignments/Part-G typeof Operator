@@ -1,0 +1,126 @@
+// Part A:
+
+
+// Question-1
+
+// let name = "Rahul";
+
+// console.log(typeof name);
+
+// Question-2
+
+// let age =25;
+
+// console.log(typeof age);
+
+
+// Question-3
+
+// let isStudent =true;
+
+// console.log(typeof isStudent);
+
+
+// Question-4
+
+// let city;
+
+// console.log(typeof city)
+
+
+// Question-5
+
+// let value=null;
+
+// console.log(typeof value)
+
+
+// Part-B:
+
+// Question-6
+
+// Output:
+// Number
+// String
+// Boolean
+// undefined
+
+
+
+// Question-7
+
+// Output:
+// Object
+// Object
+// Object
+
+
+// Question-8
+
+// Output:
+// Number
+// Number
+//function
+
+
+// Question-9
+
+// let price =99.99; //Number
+// let message="Welcome"; //String
+// let isActive = false //boolean
+
+// console.log(price)
+// console.log(message)
+// console.log(isActive)
+
+
+// Question-10
+
+// let value = null;
+// console.log(typeof value);
+// console.log(typeof value === "object");
+
+// Output:
+// Object
+// true
+
+
+// Part-C:
+
+// Question-11
+
+// Output:
+// String
+// String
+// String
+
+
+
+// Question-12
+
+// Output:
+// false
+// false
+
+
+// Question-13
+
+// Output:
+// true
+// true
+// true
+
+
+// Question-14
+
+// Output:
+// undefined
+// Object
+// Number
+
+// Question-15
+
+// Output:
+// true
+// true
+// Number
